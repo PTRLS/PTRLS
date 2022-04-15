@@ -1,3 +1,3 @@
-# -Peterlos1
+# Peterlos1
 
 Пашик, работает
